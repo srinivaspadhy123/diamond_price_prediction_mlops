@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srinivaspadhy/Desktop/DS_Self_Learning/projects/mlops/mlruns/0/cee7d7062c004fe5a3df6a74e896b3fc/artifacts
+end_time: 1715956630872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cee7d7062c004fe5a3df6a74e896b3fc
+run_name: puzzled-cat-0
+run_uuid: cee7d7062c004fe5a3df6a74e896b3fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715956623319
+status: 3
+tags: []
+user_id: srinivaspadhy

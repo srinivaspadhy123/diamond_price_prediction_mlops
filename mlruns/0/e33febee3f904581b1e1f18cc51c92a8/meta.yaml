@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srinivaspadhy/Desktop/DS_Self_Learning/projects/mlops/mlruns/0/e33febee3f904581b1e1f18cc51c92a8/artifacts
+end_time: 1715956525279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e33febee3f904581b1e1f18cc51c92a8
+run_name: enthused-bird-905
+run_uuid: e33febee3f904581b1e1f18cc51c92a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715956525250
+status: 4
+tags: []
+user_id: srinivaspadhy
